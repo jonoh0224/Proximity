@@ -125,6 +125,10 @@ yarn && yarn android
 
 - iOS
 ```
+sudo gem install cocoapods
+```
+
+```
 yarn && yarn cocoapods && yarn ios
 ```
 
